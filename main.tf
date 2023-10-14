@@ -1,5 +1,5 @@
 provider "google" {
-  project     = "studious-spider-371813"
+  project     = "padhu-398715"
   region      = "us-central1"
 
 }
