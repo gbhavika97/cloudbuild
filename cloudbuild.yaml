@@ -9,4 +9,4 @@ steps:
     name: 'hashicorp/terraform/1.0.0'
     script: terraform apply --auto-approve
 options:
-    logging: NONE
+    logging: CLOUD_LOGGING_ONLY
